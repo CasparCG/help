@@ -9,9 +9,9 @@
 If you have questions about CasparCG you can create a new [issue][1].
 
 #### Code Snippets
-If your question includes code snippets use three backticks for readability as in the example below.
+If your question includes code snippets use three backticks for readability as in the example below:
 
-**Example:**
+**Example**
 <blockquote>
   ```
   <br />
@@ -20,8 +20,14 @@ If your question includes code snippets use three backticks for readability as i
   ```
 </blockquote>
 
-**Results:**
+**Results in**
 ```
 Your code here
 ```
+
+## Participation
+Do you want to help others? You can do this by answering open questions.
+Want to help others with issues? You can start simply, by answering [open questions][2].
+
 [1]: https://github.com/CasparCG/help/issues/new
+[2]: https://github.com/CasparCG/help/issues
