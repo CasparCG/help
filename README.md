@@ -13,9 +13,6 @@ Area for CasparCG community-led support and help. If you have a question, though
 ## Create a new Issue
 If you have a question or need to discuss something with the community about CasparCG, you can do so by creating a [new issue][1].
 
-### Code Snippets
-If your issue contains code, use tree backticks *(```)* for code formatting. Never use inline code blocks because of readability.
-
 > **Markdown**  
 > Need help with styling your text? Check out the guide [Mastering Markdown][3] provded by GitHub.
 
