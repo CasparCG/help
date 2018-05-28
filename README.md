@@ -14,7 +14,7 @@ Area for CasparCG community-led support and help. If you have a question, though
 If you have a question or need to discuss something with the community about CasparCG, you can do so by creating a [new issue][1].
 
 > **Markdown**  
-> Need help with styling your text? Check out the guide [Mastering Markdown][3] provded by GitHub.
+> Need help with styling your text? Check out the guide [Mastering Markdown][3] provided by GitHub.
 
 
 [1]: https://github.com/CasparCG/help/issues/
