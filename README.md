@@ -1,21 +1,25 @@
 # CasparCG Help
-> File an issue here if you need help with CasparCG by the community-led support.
 
 [![help](https://img.shields.io/badge/help-create%20new%20issue-brightgreen.svg?style=flat-square)](https://github.com/CasparCG/help/issues)
-[![wikis](https://img.shields.io/badge/wiki-read%20here-blue.svg?style=flat-square)](https://github.com/CasparCG/help/wiki)
-[![stack](https://img.shields.io/badge/stack%20overflow-coming%20soon-f48024.svg?style=flat-square)](https://stackoverflow.com)
+[![wikis](https://img.shields.io/badge/wiki-read%20here-green.svg?style=flat-square)](https://github.com/CasparCG/help/wiki)
+[![markdown](https://img.shields.io/badge/guide-mastering%20markdown-blue.svg?style=flat-square)](https://guides.github.com/features/mastering-markdown/)
 
 
-## Create an issue
-If you have questions about CasparCG you can create a new [issue][1].
+Area for CasparCG community-led support and help. If you have a question, thought or need to discuss something, please file a [new issue][1]. Before you create a new issue, please *search* among the available issues to see if you can find an answer to your question. Also, in this area you'll find the [CasparCG Wiki][2] currently covering the CasparCG Server and the protocols used.
 
-#### Code Snippets
-If your question includes code snippets use three backticks for readability.
+<p align="center"><img src="https://raw.githubusercontent.com/wiki/CasparCG/help/Images/logotype-readme.png" width="720"></p> 
 
 
-## Participation
-Do you want to help others? You can do this by answering open questions.
-Want to help others with issues? You can start simply, by answering [open questions][2].
+## Create a new Issue
+If you have a question or need to discuss something with the community about CasparCG, you can do so by creating a [new issue][1].
 
-[1]: https://github.com/CasparCG/help/issues/new
-[2]: https://github.com/CasparCG/help/issues
+### Code Snippets
+If your issue contains code, use tree backticks *(```)* for code formatting. Never use inline code blocks because of readability.
+
+> **Markdown**  
+> Need help with styling your text? Check out the guide [Mastering Markdown][3] provded by GitHub.
+
+
+[1]: https://github.com/CasparCG/help/issues/
+[2]: https://github.com/CasparCG/help/wiki/
+[3]: https://guides.github.com/features/mastering-markdown/
